@@ -1,0 +1,396 @@
+@media (max-width: 3000px){
+	.left-arrow-div{
+		margin-left: -85%;
+	}
+	.right-arrow-div{
+		margin-right: -85%;
+	}
+}
+@media (max-width: 2000px){
+	.left-arrow-div{
+		margin-left: -75%;
+	}
+	.right-arrow-div{
+		margin-right: -75%;
+	}
+}
+@media (max-width: 1920px){
+	.trees{
+		left: 23%;
+	}
+}
+@media (max-width: 1800px){
+	.trees{
+		left: 20%;
+	}
+}
+@media (max-width: 1300px){
+	.bottom-box{
+		width: 1000px;
+	}
+	.contact-h3{
+		margin-left: 20px;
+	}
+	.contact-a,
+	.social-icons{
+     	margin-left: 70px
+	}
+	.forms-h3,
+	.input{
+		margin-left: 20px;
+	}
+	.checkbox-1,
+	.checkbox-2{
+		margin-left: 50px;
+	}
+	.forms button{
+		margin-top: 380px;
+	}
+	.footer{
+		width: 1000px;
+	}
+	.left-arrow-div{
+		margin-left: -65%;
+	}
+	.right-arrow-div{
+		margin-right: -65%;
+	}
+}
+@media (max-width: 1024px){
+	.contact{
+		display: none;
+	}
+	.forms-main{
+		margin: 0 auto;
+		background-color: #EBE8DE;
+	}
+	.forms-h3,
+	.input{
+		margin-left: 110px;
+	}
+	.checkbox-1,
+	.checkbox-2{
+		margin-left: 110px;
+	}
+	.footer{
+		width: 812px;
+	}
+	.circle1{
+		width: 40px;
+		position: absolute;
+		top: 5%;
+		left: 45%;
+	}
+	.circle2{
+		width: 40px;
+		position: absolute;
+		top: 2%;
+		right: 15%;
+	}
+	.circle3{
+		width: 80px;
+		position: absolute;
+		top: 15%;
+		right: 25%;
+	}
+	.circle4{
+		width: 18px;
+		position: absolute;
+		top: 30%;
+		left: 10%;
+	}
+	.circle5{
+		width: 80px;
+		position: absolute;
+		top: 32%;
+		left: 17%;
+	}
+	.circle6{
+		width: 18px;
+		position: absolute;
+		top: 30%;
+		left: 50%;
+	}
+	.circle7{
+		width: 40px;
+		position: absolute;
+		top: 42%;
+		right: 13%;
+	}
+	.circle8{
+		width: 24px;
+		position: absolute;
+		top: 52%;
+		right: 25%;
+	}
+	.circle9{
+		width: 18px;
+		position: absolute;
+		top: 60%;
+		left: 2%;
+	}
+	.circle10{
+		width: 40px;
+		position: absolute;
+		top: 65%;
+		left: 55%;
+	}
+	.left-arrow-div{
+		margin-left: -55%;
+	}
+	.right-arrow-div{
+		margin-right: -55%;
+	}
+}
+@media (max-width: 968px){
+	.services{
+		width: 250px;
+    	height: 260px;
+	}
+	.services-img{
+		height: 100px;
+	}
+	.services-h2,
+	.section-two-h1{
+		font-size: 40px;
+	}
+	.text-auto,
+	.text-auto-red{
+		width: 200px;
+	}
+	.bottom-text-h1{
+		font-size: 50px;
+	}
+	.bottom-text-h2{
+		font-size: 30px;
+	}
+}
+@media (max-width: 840px){
+	.footer,
+	.forms-main{
+		width: 700px;
+	}
+	.forms-h3,
+	.input{
+		margin-left: 80px;
+	}
+	.checkbox-1,
+	.checkbox-2{
+		margin-left: 80px;
+	}
+	.forms button{
+		margin-left: 30px;
+	}
+	.text-auto,
+	.text-auto-red{
+	    width: 170px;
+	}
+	.bottom-text-h1{
+		font-size: 40px;
+	}
+	.bottom-text-h2{
+		font-size: 24px;
+	}
+}
+@media (max-width: 809px){
+	.services{
+		width: 303px;
+		height: 315px;
+		background-color: #EBE8DE;
+		margin: 0 10px;
+		text-align: center;
+	    display: flex;
+	    flex-direction: column;
+	    justify-content: center;
+	    margin-top: 50px;
+	    margin-bottom: 0;
+	    margin-left: auto;
+	    margin-right: auto;
+	}
+	.services-row{
+		flex-direction: column;
+	}
+	.circle1{
+		width: 20px;
+		position: absolute;
+		top: 5%;
+		left: 45%;
+	}
+	.circle2{
+		width: 20px;
+		position: absolute;
+		top: 2%;
+		right: 15%;
+	}
+	.circle3{
+		width: 40px;
+		position: absolute;
+		top: 15%;
+		right: 25%;
+	}
+	.circle4{
+		width: 9px;
+		position: absolute;
+		top: 30%;
+		left: 10%;
+	}
+	.circle5{
+		width: 40px;
+		position: absolute;
+		top: 32%;
+		left: 17%;
+	}
+	.circle6{
+		width: 9px;
+		position: absolute;
+		top: 30%;
+		left: 50%;
+	}
+	.circle7{
+		width: 20px;
+		position: absolute;
+		top: 42%;
+		right: 13%;
+	}
+	.circle8{
+		width: 12px;
+		position: absolute;
+		top: 52%;
+		right: 25%;
+	}
+	.circle9{
+		width: 9px;
+		position: absolute;
+		top: 60%;
+		left: 2%;
+	}
+	.circle10{
+		width: 20px;
+		position: absolute;
+		top: 65%;
+		left: 55%;
+	}
+}
+@media (max-width: 720px){
+	.text-auto,
+	.text-auto-red{
+		width: 130px;
+	}
+	.bottom-text-h1,
+	.section-two-h1{
+		font-size: 30px;
+	}
+	.bottom-text-h2{
+		font-size: 20px;
+	}
+	.footer, .forms-main{
+		width: 560px;
+	}
+	.forms-h3, .input {
+	    margin-left: 30px;
+	}
+	.checkbox-1, .checkbox-2 {
+	    margin-left: 30px;
+	}
+	.forms button{
+		margin-left: 0;
+	}
+	.navigation-a{
+		font-size: 55px;
+	}
+}
+@media (max-width: 575px){
+	.footer{
+		width: 400px;
+	    margin-top: 330px;
+	}
+	.forms-main{
+		width: 400px;
+		height: 700px;
+	}
+	.forms{
+		flex-direction: column;
+	}
+	.forms-h3{
+		margin-top: 10px;
+	}
+	.form-control{
+		width: 330px;
+	}
+	.checkbox-1{
+		margin-top: 0;
+	}
+	.checkbox-2{
+		width: 100%;
+		margin-top: 20px;
+	}
+	.forms button{
+		margin-top: 5px;
+		margin-left: 30px;
+	}
+	.navigation-a{
+		font-size: 50px;
+	}
+	.left-arrow-div{
+		margin-left: -30%;
+		width: 55px;
+	    height: 100px;
+	    border-bottom-right-radius: 55px;
+	    border-top-right-radius: 55px;
+	}
+	.right-arrow-div{
+		margin-right: -30%;
+		width: 55px;
+	    height: 100px;
+	    border-bottom-left-radius: 55px;
+	    border-top-left-radius: 55px;
+	}
+}
+@media (max-width: 400px){
+	.footer{
+		width: 300px;
+	    margin-top: 330px;
+	}
+	.forms-main{
+		width: 300px;
+		height: 700px;
+	}
+	.form-control{
+		width: 230px;
+	}
+	.forms-h3{
+		font-size: 30px;
+		margin-top: 20px;
+	}
+	.footer p{
+		font-size: 12px;
+	}
+	.navigation-a{
+		font-size: 35px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
